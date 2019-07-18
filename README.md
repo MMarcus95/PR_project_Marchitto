@@ -1,4 +1,4 @@
-# PR_project_Marchitto
+# PR_project_Marchitto: 2D-LS-bearingOnly-SLAM
 This octave code is an implementation of a 2D Least Square based bearing-only SLAM problem with known data association. It address both the problem with pose-landmark measurements only and the total least square approach.
 
 **LEAST SQUARE FORMULATION**
