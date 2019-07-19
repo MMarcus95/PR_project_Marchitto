@@ -27,7 +27,7 @@ Notice that the box plus and minus operator are used to deal with the manifold: 
 
 **INITIAL GUESS**
 
-The initial guess of the robot poses is extracted by the odometry integration, while the one of the landmark position is realized by triangulation. Two type of triangulations are implemented:
+The initial guess of the robot poses is extracted by the odometry integration, while the one of the landmarks position is realized by triangulation. Two type of triangulations are implemented:
 
 - a triangulation with consecutive poses. A landmark is triangulated if and only if 2 consecutive poses have seen the same landmark and 
 
