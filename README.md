@@ -71,5 +71,5 @@ The following consideration can be finally extracted from the above results:
 - by using the best found parameters, the triangulation with consecutive poses is more accurate w.r.t to the one with lines intersection. At the same time the latter can exstimate the position of more landmarks.
 
 To launch the algorithm:
-octave 2D_bearing_localizationOnly.m
+octave 2D_bearing_SLAM.m
  
