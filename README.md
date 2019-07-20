@@ -19,7 +19,7 @@ The least square on manifold formulation is as follows:
 
 **Error function_pose-pose**: h_ij(XRi,XLj) - zo_ij.
 
-The following least square algorithm computed on the **manifold**:
+The least square algorithm computed on the **manifold** is as follows:
 
 <img src="./results/algorithm.png">
 
